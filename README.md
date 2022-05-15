@@ -1,4 +1,4 @@
-# FINAL
+# django image classifier using tensorflow
 https://djangoclassifier.herokuapp.com/
 
 # _Installation_
